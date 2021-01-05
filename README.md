@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mcnnowak/mcnnowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on honing my data science and analysis skills with Python Notebooks, Pandas, Scikit Learn, and PyPlot/Seaborn.
+
+### Profiles
+- [Codewars](https://www.codewars.com/users/mcnnowak) <img src="https://www.codewars.com/users/mcnnowak/badges/micro">
+- [Kaggle](https://www.kaggle.com/mcnowak)
