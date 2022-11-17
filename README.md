@@ -18,3 +18,4 @@ I'm currently working on honing my data science and analysis skills with Python 
 ### Profiles
 - [Codewars](https://www.codewars.com/users/mcnnowak) <img src="https://www.codewars.com/users/mcnnowak/badges/micro">
 - [Kaggle](https://www.kaggle.com/mcnowak)
+- [Buy me a coffee for whatever reason ☕](https://ko-fi.com/mcnnowak)
